@@ -4,7 +4,7 @@ Este dashboard presenta un análisis integral de las ventas de la base de datos 
 
 ---
 
-## 📈 Principales Indicadores
+## 📂 Principales Indicadores
 
 - **Total de ventas:** $1.27 millones  
 - **Presencia geográfica:** 21 países  
