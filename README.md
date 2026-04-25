@@ -43,5 +43,3 @@ Este dashboard presenta un análisis integral de las ventas de la base de datos 
 - Visualización interactiva
 
 ---
-
-## 📂 Estructura del Proyecto
