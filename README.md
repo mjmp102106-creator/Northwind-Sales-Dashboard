@@ -1,15 +1,15 @@
-# 📊 NORTHWIND – Análisis de Ventas (1996–1998)
+# NORTHWIND – Análisis de Ventas (1996–1998)
 
 Este dashboard presenta un análisis integral de las ventas de la base de datos Northwind, abarcando el periodo de 1996 a 1998. Permite explorar el desempeño comercial por producto, país y tiempos de entrega, facilitando la identificación de patrones y oportunidades estratégicas.
 
 ---
 
-## 🚀 Principales Indicadores
+## 📈 Principales Indicadores
 
-- **💰 Total de ventas:** $1.27 millones  
-- **🌍 Presencia geográfica:** 21 países  
-- **📦 Top productos:** Liderados por *Côte de Blaye* y *Thüringer Rostbratwurst*  
-- **📈 Tendencia temporal:** Variaciones mensuales con picos relevantes en 1998  
+- **Total de ventas:** $1.27 millones  
+- **Presencia geográfica:** 21 países  
+- **Top productos:** Liderados por *Côte de Blaye* y *Thüringer Rostbratwurst*  
+- **Tendencia temporal:** Variaciones mensuales con picos relevantes en 1998  
 
 ---
 
